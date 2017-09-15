@@ -1,5 +1,5 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "name": "react-native-root-toast",
     "description": "react native toast like component, pure javascript solution",
     "repository": {
@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "SudoPlz/react-native-root-siblings#e5e4030bbecf68dc8f386433450dab87f1727b2d"
+        "react-native-root-siblings": "SudoPlz/react-native-root-siblings#d3c6d86da7a3b8cbe4ee2046d378acf211c4af6d"
     },
     "peerDependencies": {
         "prop-types": "^15.5.10"
