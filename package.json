@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "SudoPlz/react-native-root-siblings"
+        "react-native-root-siblings": "SudoPlz/react-native-root-siblings#0034567524b510d8a5b51afc63f1e53a51d8f0c5"
     },
     "peerDependencies": {
         "prop-types": "^15.5.10"
